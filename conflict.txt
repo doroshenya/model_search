@@ -1,1 +1,2 @@
 Это строка из branch1 - коммит 3
+Additional change 1 in branch1
