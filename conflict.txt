@@ -2,3 +2,7 @@
 New clone change 1 in branch1
 New clone change 2 in branch1
 New clone change 3 in branch1
+Additional change 1 in branch1
+Additional change 2 in branch1
+Additional change 3 in branch1
+0e9779dcd537d259b8966d7d48c9d8197c1bfb04
